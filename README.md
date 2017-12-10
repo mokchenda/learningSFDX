@@ -1,2 +1,5 @@
+#Read Me
 
- Hello Git
+##Setup
+
+type blabla
